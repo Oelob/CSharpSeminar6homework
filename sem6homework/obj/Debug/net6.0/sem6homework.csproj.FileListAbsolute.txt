@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\obj\Debug\net6.0\sem6homework.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\obj\Debug\net6.0\sem6homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\obj\Debug\net6.0\sem6homework.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\obj\Debug\net6.0\sem6homework.AssemblyInfo.cs
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\obj\Debug\net6.0\sem6homework.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\bin\Debug\net6.0\sem6homework.exe
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\bin\Debug\net6.0\sem6homework.deps.json
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\bin\Debug\net6.0\sem6homework.runtimeconfig.json
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\bin\Debug\net6.0\sem6homework.dll
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\bin\Debug\net6.0\sem6homework.pdb
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\obj\Debug\net6.0\sem6homework.dll
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\obj\Debug\net6.0\refint\sem6homework.dll
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\obj\Debug\net6.0\sem6homework.pdb
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\obj\Debug\net6.0\sem6homework.genruntimeconfig.cache
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\obj\Debug\net6.0\ref\sem6homework.dll
