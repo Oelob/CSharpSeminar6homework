@@ -23,6 +23,8 @@ int[] GetNumbers(string numbers)
     return result;
 }
 
+// Создаем функцию, которая в массиве определяет числа больше ноля 
+
 int Count(int[] array)
 {
     int result = 0;
@@ -33,8 +35,7 @@ int Count(int[] array)
     return result;
 }
 
-
-
+// Ввод данных от пользователя, вывод результата на экран
 
 Console.WriteLine("Введите числа: ");
 string figures = Convert.ToString(Console.ReadLine());
