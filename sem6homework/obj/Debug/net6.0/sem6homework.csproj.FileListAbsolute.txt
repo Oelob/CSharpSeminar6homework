@@ -13,3 +13,6 @@ C:\Users\1\Desktop\иван\задания по разработчику\сиш�
 C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\obj\Debug\net6.0\sem6homework.pdb
 C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\obj\Debug\net6.0\sem6homework.genruntimeconfig.cache
 C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\obj\Debug\net6.0\ref\sem6homework.dll
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\bin\Debug\net6.0\classes.dll
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\bin\Debug\net6.0\classes.pdb
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\sem6homework\obj\Debug\net6.0\sem6homework.csproj.CopyComplete

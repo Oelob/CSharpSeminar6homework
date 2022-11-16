@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "sem6homework/1.0.0": {
+        "dependencies": {
+          "classes": "1.0.0"
+        },
         "runtime": {
           "sem6homework.dll": {}
+        }
+      },
+      "classes/1.0.0": {
+        "runtime": {
+          "classes.dll": {}
         }
       }
     }
   },
   "libraries": {
     "sem6homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "classes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
