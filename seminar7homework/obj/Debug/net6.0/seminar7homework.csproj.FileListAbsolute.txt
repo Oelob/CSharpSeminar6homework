@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\seminar7homework\bin\Debug\net6.0\seminar7homework.exe
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\seminar7homework\bin\Debug\net6.0\seminar7homework.deps.json
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\seminar7homework\bin\Debug\net6.0\seminar7homework.runtimeconfig.json
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\seminar7homework\bin\Debug\net6.0\seminar7homework.dll
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\seminar7homework\bin\Debug\net6.0\seminar7homework.pdb
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\seminar7homework\obj\Debug\net6.0\seminar7homework.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\seminar7homework\obj\Debug\net6.0\seminar7homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\seminar7homework\obj\Debug\net6.0\seminar7homework.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\seminar7homework\obj\Debug\net6.0\seminar7homework.AssemblyInfo.cs
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\seminar7homework\obj\Debug\net6.0\seminar7homework.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\seminar7homework\obj\Debug\net6.0\seminar7homework.dll
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\seminar7homework\obj\Debug\net6.0\refint\seminar7homework.dll
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\seminar7homework\obj\Debug\net6.0\seminar7homework.pdb
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\seminar7homework\obj\Debug\net6.0\seminar7homework.genruntimeconfig.cache
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп2\seminar7homework\obj\Debug\net6.0\ref\seminar7homework.dll
